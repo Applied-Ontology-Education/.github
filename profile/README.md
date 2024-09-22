@@ -1,4 +1,4 @@
-# 🌟 Applied Ontology Education GitHub Organization 🌟
+# Applied Ontology Education GitHub Organization
 
 Welcome to the official NCOR GitHub organization for ontology engineering educational materials. The resources contained here are designed to guide you through the evolving fields of semantic web technologies, AI-powered systems, and advanced data modeling.
 
@@ -9,13 +9,14 @@ Our goal is to empower learners, developers, and researchers in their journey to
 
 ---
 
-## 📚 **Featured Repositories**
+**Featured Repositories**
 
 ### 1. **Intelligence Analysis and Ontology Engineering**  
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024))
 
 An introductory course concerned with building, maintaining, and applying ontologies in the domain of intelligence analysis.  
-🚀 **Topics**: OWL, Intelligence Cycle, Arguments Ontology, Conformation Bias, Analytic Methods.  
+
+**Topics**: OWL, Intelligence Cycle, Arguments Ontology, Conformation Bias, Analytic Methods.  
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Ontology-and-Intel-Analysis-Fall-2024&theme=dark&show_owner=true&show_icons=true)
 
@@ -25,7 +26,8 @@ An introductory course concerned with building, maintaining, and applying ontolo
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024?style=social)](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024)
 
 Learn how to construct and query knowledge graphs using RDF, OWL, SPARQL, and other tools/standards from the semantic web stack.  
-🧠 **Topics**: RDF, SPARQL, SHACL, Knowledge Graph Construction.  
+
+**Topics**: RDF, SPARQL, SHACL, Knowledge Graph Construction.  
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Logic-for-Ontologists-Fall-2024&theme=dark&show_owner=true&show_icons=true)
 
