@@ -4,7 +4,7 @@ Welcome to the official NCOR GitHub organization for ontology engineering educat
 
 ---
 
-## 🔍 **Our Mission**
+**Our Mission**
 Our goal is to empower learners, developers, and researchers in their journey towards mastering ontology engineering, knowledge graph development, and artificial intelligence. By providing curated resources and hands-on repositories, we hope to facilitate knowledge sharing and skill-building within these important domains.
 
 ---
