@@ -33,7 +33,7 @@ Learn how to construct and query knowledge graphs using RDF, OWL, SPARQL, and ot
 
 ---
 
-### 3. **Learning Pathways**
+### 3. **Certificate Pathways**
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/ncor-ontology-pathways?style=social)](https://github.com/Applied-Ontology-Education/ncor-ontology-pathways)
 
 Whether you're a student, researcher, or developer, we’ve got tailored pathways to guide your learning journey:
