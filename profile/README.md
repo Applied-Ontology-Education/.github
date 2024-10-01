@@ -11,7 +11,7 @@ Our goal is to empower learners, developers, and researchers in their journey to
 
 **Featured Repositories**
 
-### 1. **Intelligence Analysis and Ontology Engineering**  
+### 1. [**Intelligence Analysis and Ontology Engineering**](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024)  
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024))
 
 An introductory course concerned with building, maintaining, and applying ontologies in the domain of intelligence analysis.  
