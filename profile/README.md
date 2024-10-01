@@ -11,7 +11,7 @@ Our goal is to empower learners, developers, and researchers in their journey to
 
 **Featured Repositories**
 
-### 1. [**Intelligence Analysis and Ontology Engineering**](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024)  
+### [**Intelligence Analysis and Ontology Engineering**](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024)  
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024))
 
 An introductory course concerned with building, maintaining, and applying ontologies in the domain of intelligence analysis.  
@@ -22,7 +22,7 @@ An introductory course concerned with building, maintaining, and applying ontolo
 
 ---
 
-### 2. **Logic for Ontologists**  
+### [**Logic for Ontologists**](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024) 
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024?style=social)](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024)
 
 Learn how to construct and query knowledge graphs using RDF, OWL, SPARQL, and other tools/standards from the semantic web stack.  
@@ -33,7 +33,7 @@ Learn how to construct and query knowledge graphs using RDF, OWL, SPARQL, and ot
 
 ---
 
-### 3. **Certificate Pathways**
+### [**Certificate Pathways**](https://github.com/Applied-Ontology-Education/ncor-ontology-pathways)
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/ncor-ontology-pathways?style=social)](https://github.com/Applied-Ontology-Education/ncor-ontology-pathways)
 
 Whether you're a student, researcher, or developer, we’ve got tailored pathways to guide your learning journey:
