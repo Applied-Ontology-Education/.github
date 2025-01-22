@@ -8,8 +8,28 @@ Welcome to the official NCOR GitHub organization for ontology engineering educat
 Our goal is to empower learners, developers, and researchers in their journey towards mastering ontology engineering, knowledge graph development, and artificial intelligence. By providing curated resources and hands-on repositories, we hope to facilitate knowledge sharing and skill-building within these important domains.
 
 ---
-
 **Featured Repositories**
+
+### [**Social & Knowledge Engineering**](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering)  
+[![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/social-and-knowledge-engineering?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering))
+
+A course focused on preparing you to sell, persuade, and defend ontologies and knowledge graphs for various applications.   
+
+**Topics**: Social Engineering, Negotiating, Presentating.  
+
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=social-and-knowledge-engineering&theme=dark&show_owner=true&show_icons=true)
+
+---
+### [**Design Patterns**](https://github.com/Applied-Ontology-Education/design-patterns)  
+[![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/design-patterns?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/design-patterns))
+
+An introductory course concerned with building, maintaining, and refining design patterns for ontology engineering applications.  
+
+**Topics**: Competency Questions, Consensus-Building, Disambiguation, Abstraction and Refinement
+
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=design-patterns&theme=dark&show_owner=true&show_icons=true)
+
+---
 
 ### [**Intelligence Analysis and Ontology Engineering**](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024)  
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024))
