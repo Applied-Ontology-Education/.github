@@ -76,9 +76,7 @@ Whether you're a student, researcher, or developer, we’ve got tailored pathway
 
 ---
 
-National Center for Ontological Research © 2024  
+National Center for Ontological Research © 2025  
 **[Website]([https://your-organization-website.com](https://ncor-organization.github.io/NCOR-Test/))** | **[Contact Us](mailto:johnbeve@buffalo.edu)**
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohnbeve&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 
