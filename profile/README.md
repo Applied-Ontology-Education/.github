@@ -10,7 +10,7 @@ Our goal is to empower learners, developers, and researchers in their journey to
 ---
 **Featured Repositories**
 
-### [**Ontology Tradcraft**](https://github.com/Applied-Ontology-Education/Ontology-Tradecraft)  
+### [**Ontology Tradecraft**](https://github.com/Applied-Ontology-Education/Ontology-Tradecraft)  
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Ontology-Tradecraft?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/Ontology-Tradecraft))
 
 A course focused largely on how and when to implement ontologies within the contemporary technological landscape. 
