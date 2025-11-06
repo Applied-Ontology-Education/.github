@@ -1,11 +1,19 @@
 # Applied Ontology Education GitHub Organization
 
-Welcome to the official NCOR GitHub organization for ontology engineering educational materials. The resources contained here are designed to guide you through the evolving fields of semantic web technologies, AI-powered systems, and advanced data modeling.
+Welcome to the [**National Center for Ontological Research (NCOR)**](https://ncor-network.org/docs/about/mission) GitHub organization for ontology engineering education and training.
+All materials here are developed and maintained by NCOR contributors to support open education in ontology, knowledge graph technologies, and semantic systems.
 
 ---
 
 **Our Mission**
-Our goal is to empower learners, developers, and researchers in their journey towards mastering ontology engineering, knowledge graph development, and artificial intelligence. By providing curated resources and hands-on repositories, we hope to facilitate knowledge sharing and skill-building within these important domains.
+[NCOR’s](https://ncor-network.org/docs/about/mission) mission is to advance the public understanding and professional practice of ontology engineering. Through openly licensed resources, we aim to equip learners, developers, and researchers with the knowledge and tools needed to design, implement, and sustain semantically rich, AI-integrated data systems.
+
+All content hosted in this organization is:
+- Created and maintained by [NCOR](https://ncor-network.org/docs/about/mission) and its collaborators,
+- Released under open licenses (as indicated in each repository), and
+- Provided independently of any university or other institutional affiliation.
+
+Use, reuse, and contribution are encouraged under the terms of the applicable repository license.
 
 ---
 **Featured Repositories**
@@ -13,7 +21,7 @@ Our goal is to empower learners, developers, and researchers in their journey to
 ### [**Ontology Tradecraft**](https://github.com/Applied-Ontology-Education/Ontology-Tradecraft)  
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Ontology-Tradecraft?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/Ontology-Tradecraft))
 
-A course focused largely on how and when to implement ontologies within the contemporary technological landscape. 
+A course focused largely on how and when to implement ontologies within the contemporary technological landscape. Based on materials developed for instruction in ontology engineering; maintained by NCOR as open educational resources.
 
 **Topics**: Ontology governance, integration techniques, ETL, reasoning, AI workflows.  
 
@@ -24,7 +32,7 @@ A course focused largely on how and when to implement ontologies within the cont
 ### [**Social & Knowledge Engineering**](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering)  
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/social-and-knowledge-engineering?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering))
 
-A course focused on preparing you to sell, persuade, and defend ontologies and knowledge graphs for various applications.   
+A course focused on preparing you to sell, persuade, and defend ontologies and knowledge graphs for various applications.  
 
 **Topics**: Social Engineering, Negotiating, Presentating.  
 
@@ -34,7 +42,7 @@ A course focused on preparing you to sell, persuade, and defend ontologies and k
 ### [**Design Patterns**](https://github.com/Applied-Ontology-Education/design-patterns)  
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/design-patterns?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/design-patterns))
 
-An introductory course concerned with building, maintaining, and refining design patterns for ontology engineering applications.  
+An introductory course concerned with building, maintaining, and refining design patterns for ontology engineering applications. Based on materials developed for instruction in ontology engineering; maintained by NCOR as open educational resources. 
 
 **Topics**: Competency Questions, Consensus-Building, Disambiguation, Abstraction and Refinement
 
@@ -45,7 +53,7 @@ An introductory course concerned with building, maintaining, and refining design
 ### [**Intelligence Analysis and Ontology Engineering**](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024)  
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024))
 
-An introductory course concerned with building, maintaining, and applying ontologies in the domain of intelligence analysis.  
+An introductory course concerned with building, maintaining, and applying ontologies in the domain of intelligence analysis. Based on materials developed for instruction in ontology engineering; maintained by NCOR as open educational resources. 
 
 **Topics**: OWL, Intelligence Cycle, Arguments Ontology, Conformation Bias, Analytic Methods.  
 
@@ -56,7 +64,7 @@ An introductory course concerned with building, maintaining, and applying ontolo
 ### [**Logic for Ontologists**](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024) 
 [![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024?style=social)](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024)
 
-Learn how to construct and query knowledge graphs using RDF, OWL, SPARQL, and other tools/standards from the semantic web stack.  
+Learn how to construct and query knowledge graphs using RDF, OWL, SPARQL, and other tools/standards from the semantic web stack. Based on materials developed for instruction in ontology engineering; maintained by NCOR as open educational resources. 
 
 **Topics**: RDF, SPARQL, SHACL, Knowledge Graph Construction.  
 
@@ -77,6 +85,6 @@ Whether you're a student, researcher, or developer, we’ve got tailored pathway
 ---
 
 National Center for Ontological Research © 2025  
-**[Website]([https://your-organization-website.com](https://ncor-organization.github.io/NCOR-Test/))** | **[Contact Us](mailto:johnbeve@buffalo.edu)**
+**[Website](https://ncor-network.org/)** | **[Contact Us](mailto:ncornetwork@gmail.com)**
 
 
