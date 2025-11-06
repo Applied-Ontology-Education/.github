@@ -16,73 +16,74 @@ All content hosted in this organization is:
 Use, reuse, and contribution are encouraged under the terms of the applicable repository license.
 
 ---
-**Featured Repositories**
+## Featured Repositories
 
-### [**Ontology Tradecraft**](https://github.com/Applied-Ontology-Education/Ontology-Tradecraft)  
-[![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Ontology-Tradecraft?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/Ontology-Tradecraft))
+<table>
+<tr>
+<td width="33%" valign="top">
 
-A course focused largely on how and when to implement ontologies within the contemporary technological landscape. Based on materials developed for instruction in ontology engineering; maintained by NCOR as open educational resources.
+### [**Ontology Tradecraft**](https://github.com/Applied-Ontology-Education/Ontology-Tradecraft)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Ontology-Tradecraft&theme=dark&show_owner=true)
+  
+A course focused on when and how to implement ontologies within the contemporary technological landscape. <br>
 
-**Topics**: Ontology governance, integration techniques, ETL, reasoning, AI workflows.  
+**Topics:** Ontology governance, ETL, reasoning, AI workflows.
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Ontology-Tradecraft&theme=dark&show_owner=true&show_icons=true)
+</td>
+<td width="33%" valign="top">
 
----
+### [**Social & Knowledge Engineering**](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=social-and-knowledge-engineering&theme=dark&show_owner=true)
+  
+A course focused on how to advocate for and defend ontology and knowledge-graph solutions.  <br>
 
-### [**Social & Knowledge Engineering**](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering)  
-[![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/social-and-knowledge-engineering?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering))
+**Topics:** Social engineering, negotiation, presentation.
 
-A course focused on preparing you to sell, persuade, and defend ontologies and knowledge graphs for various applications.  
+</td>
+<td width="33%" valign="top">
 
-**Topics**: Social Engineering, Negotiating, Presentating.  
+### [**Design Patterns**](https://github.com/Applied-Ontology-Education/design-patterns)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=design-patterns&theme=dark&show_owner=true)
+  
+Learn to build and refine ontology design patterns for real-world applications.  <br>
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=social-and-knowledge-engineering&theme=dark&show_owner=true&show_icons=true)
+**Topics:** Competency questions, consensus building, abstraction.
 
----
-### [**Design Patterns**](https://github.com/Applied-Ontology-Education/design-patterns)  
-[![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/design-patterns?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/design-patterns))
+</td>
+</tr>
 
-An introductory course concerned with building, maintaining, and refining design patterns for ontology engineering applications. Based on materials developed for instruction in ontology engineering; maintained by NCOR as open educational resources. 
+<tr>
+<td width="33%" valign="top">
 
-**Topics**: Competency Questions, Consensus-Building, Disambiguation, Abstraction and Refinement
+### [**Intelligence Analysis & Ontology Engineering**](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Ontology-and-Intel-Analysis-Fall-2024&theme=dark&show_owner=true)
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=design-patterns&theme=dark&show_owner=true&show_icons=true)
+Build and apply ontologies within intelligence analysis contexts. <br>
 
----
+**Topics:** OWL, arguments ontology, analytic methods.
 
-### [**Intelligence Analysis and Ontology Engineering**](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024)  
-[![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024?style=social)]([https://github.com/your-organization/Ontology-Engineering-101](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024))
+</td>
+<td width="33%" valign="top">
 
-An introductory course concerned with building, maintaining, and applying ontologies in the domain of intelligence analysis. Based on materials developed for instruction in ontology engineering; maintained by NCOR as open educational resources. 
+### [**Logic for Ontologists**](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Logic-for-Ontologists-Fall-2024&theme=dark&show_owner=true)
 
-**Topics**: OWL, Intelligence Cycle, Arguments Ontology, Conformation Bias, Analytic Methods.  
+Understand the formal logic foundations of ontology engineering.  <br>
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Ontology-and-Intel-Analysis-Fall-2024&theme=dark&show_owner=true&show_icons=true)
+**Topics:** RDF, SPARQL, SHACL, reasoning.
 
----
-
-### [**Logic for Ontologists**](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024) 
-[![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024?style=social)](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024)
-
-Learn how to construct and query knowledge graphs using RDF, OWL, SPARQL, and other tools/standards from the semantic web stack. Based on materials developed for instruction in ontology engineering; maintained by NCOR as open educational resources. 
-
-**Topics**: RDF, SPARQL, SHACL, Knowledge Graph Construction.  
-
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Logic-for-Ontologists-Fall-2024&theme=dark&show_owner=true&show_icons=true)
-
----
+</td>
+<td width="33%" valign="top">
 
 ### [**Certificate Pathways**](https://github.com/Applied-Ontology-Education/ncor-ontology-pathways)
-[![GitHub stars](https://img.shields.io/github/stars/Applied-Ontology-Education/ncor-ontology-pathways?style=social)](https://github.com/Applied-Ontology-Education/ncor-ontology-pathways)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=ncor-ontology-pathways&theme=dark&show_owner=true)
 
-Whether you're a student, researcher, or developer, we’ve got tailored pathways to guide your learning journey:
-- **Beginner**: Start with basic ontology design and introduction to RDF and OWL.
-- **Intermediate**: Dive into knowledge graph querying, reasoning, and validation.
-- **Advanced**: Explore complex AI-driven ontology integration, semantic reasoning, and applications of AI in ontology curation.
-  
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=ncor-ontology-pathways&theme=dark&show_owner=true&show_icons=true)
+Follow structured pathways for beginner, intermediate, and advanced ontology learners.
 
----
+</td>
+</tr>
+</table>
+
 
 National Center for Ontological Research © 2025  
 **[Website](https://ncor-network.org/)** | **[Contact Us](mailto:ncornetwork@gmail.com)**
