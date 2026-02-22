@@ -23,7 +23,7 @@ Use, reuse, and contribution are encouraged under the terms of the applicable re
 <td width="33%" valign="top">
 
 ### [**Ontology Tradecraft**](https://github.com/Applied-Ontology-Education/Ontology-Tradecraft)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Ontology-Tradecraft&theme=dark&show_owner=true)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Ontology-Tradecraft&theme=dark&show_owner=true&cache_seconds=86400)
   
 A course focused on when and how to implement ontologies within the contemporary technological landscape. <br>
 
@@ -33,7 +33,7 @@ A course focused on when and how to implement ontologies within the contemporary
 <td width="33%" valign="top">
 
 ### [**Social & Knowledge Engineering**](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=social-and-knowledge-engineering&theme=dark&show_owner=true)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=social-and-knowledge-engineering&theme=dark&show_owner=true&cache_seconds=86400)
   
 A course focused on how to advocate for and defend ontology and knowledge-graph solutions.  <br>
 
@@ -43,7 +43,7 @@ A course focused on how to advocate for and defend ontology and knowledge-graph 
 <td width="33%" valign="top">
 
 ### [**Design Patterns**](https://github.com/Applied-Ontology-Education/design-patterns)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=design-patterns&theme=dark&show_owner=true)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=design-patterns&theme=dark&show_owner=true&cache_seconds=86400)
   
 Learn to build and refine ontology design patterns for real-world applications.  <br>
 
@@ -56,7 +56,7 @@ Learn to build and refine ontology design patterns for real-world applications. 
 <td width="33%" valign="top">
 
 ### [**Intelligence Analysis & Ontology Engineering**](https://github.com/Applied-Ontology-Education/Ontology-and-Intel-Analysis-Fall-2024)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Ontology-and-Intel-Analysis-Fall-2024&theme=dark&show_owner=true)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Ontology-and-Intel-Analysis-Fall-2024&theme=dark&show_owner=true&cache_seconds=86400)
 
 Build and apply ontologies within intelligence analysis contexts. <br>
 
@@ -66,7 +66,7 @@ Build and apply ontologies within intelligence analysis contexts. <br>
 <td width="33%" valign="top">
 
 ### [**Logic for Ontologists**](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Logic-for-Ontologists-Fall-2024&theme=dark&show_owner=true)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=Logic-for-Ontologists-Fall-2024&theme=dark&show_owner=true&cache_seconds=86400)
 
 Understand the formal logic foundations of ontology engineering.  <br>
 
@@ -76,7 +76,7 @@ Understand the formal logic foundations of ontology engineering.  <br>
 <td width="33%" valign="top">
 
 ### [**Certificate Pathways**](https://github.com/Applied-Ontology-Education/ncor-ontology-pathways)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=ncor-ontology-pathways&theme=dark&show_owner=true)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Applied-Ontology-Education&repo=ncor-ontology-pathways&theme=dark&show_owner=true&cache_seconds=86400)
 
 Follow structured pathways for beginner, intermediate, and advanced ontology learners.
 
@@ -87,5 +87,3 @@ Follow structured pathways for beginner, intermediate, and advanced ontology lea
 
 National Center for Ontological Research © 2025  
 **[Website](https://ncor-network.org/)** | **[Contact Us](mailto:ncornetwork@gmail.com)**
-
-
