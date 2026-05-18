@@ -97,5 +97,5 @@ Follow structured pathways for beginner, intermediate, and advanced ontology lea
 </table>
 
 
-National Center for Ontological Research © 2025  
+National Center for Ontological Research © 2026  
 **[Website](https://ncor-network.org/)** | **[Contact Us](mailto:ncornetwork@gmail.com)**
