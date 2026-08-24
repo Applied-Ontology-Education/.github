@@ -34,14 +34,14 @@ A course focused on when and how to implement ontologies within the contemporary
 </td>
 <td width="33%" valign="top">
 
-### [**Social & Knowledge Engineering**](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering)
+### [**World's Ontology Ecosystem**](https://github.com/Applied-Ontology-Education/World-s-Ontology-Ecosystem)
 
-[![Stars](https://img.shields.io/github/stars/Applied-Ontology-Education/social-and-knowledge-engineering?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering/stargazers)
-[![Forks](https://img.shields.io/github/forks/Applied-Ontology-Education/social-and-knowledge-engineering?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/social-and-knowledge-engineering/forks)
+[![Stars](https://img.shields.io/github/stars/Applied-Ontology-Education/World-s-Ontology-Ecosystem?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/World-s-Ontology-Ecosystem/stargazers)
+[![Forks](https://img.shields.io/github/forks/Applied-Ontology-Education/World-s-Ontology-Ecosystem?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/World-s-Ontology-Ecosystem/forks)
   
-A course focused on how to advocate for and defend ontology and knowledge-graph solutions. <br>
+a five-day intensive ontology course hosted by the University at Buffalo and the National Center for Ontological Research. <br>
 
-**Topics:** Social engineering, negotiation, presentation.
+**Topics:** Ontology engineering, generative AI, future of applied ontology.
 
 </td>
 <td width="33%" valign="top">
