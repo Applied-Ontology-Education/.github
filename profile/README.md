@@ -46,6 +46,18 @@ a five-day intensive ontology course hosted by the University at Buffalo and the
 </td>
 <td width="33%" valign="top">
 
+### [**Logic for Ontologists**](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024)
+
+[![Stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024/stargazers)
+[![Forks](https://img.shields.io/github/forks/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024/forks)
+
+Understand the formal logic foundations of ontology engineering. <br>
+
+**Topics:** RDF, SPARQL, SHACL, reasoning.
+
+</td>
+<td width="33%" valign="top">
+
 ### [**Design Patterns**](https://github.com/Applied-Ontology-Education/design-patterns)
 
 [![Stars](https://img.shields.io/github/stars/Applied-Ontology-Education/design-patterns?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/design-patterns/stargazers)
@@ -69,18 +81,6 @@ Learn to build and refine ontology design patterns for real-world applications. 
 Build and apply ontologies within intelligence analysis contexts. <br>
 
 **Topics:** OWL, arguments ontology, analytic methods.
-
-</td>
-<td width="33%" valign="top">
-
-### [**Logic for Ontologists**](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024)
-
-[![Stars](https://img.shields.io/github/stars/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024/stargazers)
-[![Forks](https://img.shields.io/github/forks/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/Logic-for-Ontologists-Fall-2024/forks)
-
-Understand the formal logic foundations of ontology engineering. <br>
-
-**Topics:** RDF, SPARQL, SHACL, reasoning.
 
 </td>
 <td width="33%" valign="top">
