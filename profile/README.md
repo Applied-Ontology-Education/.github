@@ -56,18 +56,6 @@ Understand the formal logic foundations of ontology engineering. <br>
 **Topics:** RDF, SPARQL, SHACL, reasoning.
 
 </td>
-<td width="33%" valign="top">
-
-### [**Design Patterns**](https://github.com/Applied-Ontology-Education/design-patterns)
-
-[![Stars](https://img.shields.io/github/stars/Applied-Ontology-Education/design-patterns?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/design-patterns/stargazers)
-[![Forks](https://img.shields.io/github/forks/Applied-Ontology-Education/design-patterns?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/design-patterns/forks)
-  
-Learn to build and refine ontology design patterns for real-world applications. <br>
-
-**Topics:** Competency questions, consensus building, abstraction.
-
-</td>
 </tr>
 
 <tr>
@@ -91,6 +79,18 @@ Build and apply ontologies within intelligence analysis contexts. <br>
 [![Forks](https://img.shields.io/github/forks/Applied-Ontology-Education/ncor-ontology-pathways?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/ncor-ontology-pathways/forks)
 
 Follow structured pathways for beginner, intermediate, and advanced ontology learners.
+
+</td>
+<td width="33%" valign="top">
+
+### [**Design Patterns**](https://github.com/Applied-Ontology-Education/design-patterns)
+
+[![Stars](https://img.shields.io/github/stars/Applied-Ontology-Education/design-patterns?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/design-patterns/stargazers)
+[![Forks](https://img.shields.io/github/forks/Applied-Ontology-Education/design-patterns?style=for-the-badge&logo=github)](https://github.com/Applied-Ontology-Education/design-patterns/forks)
+  
+Learn to build and refine ontology design patterns for real-world applications. <br>
+
+**Topics:** Competency questions, consensus building, abstraction.
 
 </td>
 </tr>
