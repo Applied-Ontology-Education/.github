@@ -1,12 +1,12 @@
 # Applied Ontology Education GitHub Organization
 
-Welcome to the [**National Center for Ontological Research (NCOR)**](https://ncor-network.org/docs/about/mission) GitHub organization for ontology engineering education and training.
-All materials here are developed and maintained by NCOR contributors to support open education in ontology, knowledge graph technologies, and semantic systems.
+Welcome to the GitHub organization for ontology engineering education and training.
+All materials here are developed and maintained by expert ontology engineers to support open education in ontology, knowledge graph technologies, and semantic systems.
 
 ---
 
 **Our Mission**
-[NCOR’s](https://ncor-network.org/docs/about/mission) mission is to advance the public understanding and professional practice of ontology engineering. Through openly licensed resources, we aim to equip learners, developers, and researchers with the knowledge and tools needed to design, implement, and sustain semantically rich, AI-integrated data systems.
+Our mission is to advance the public understanding and professional practice of ontology engineering. Through openly licensed resources, we aim to equip learners, developers, and researchers with the knowledge and tools needed to design, implement, and sustain semantically rich, AI-integrated data systems.
 
 All content hosted in this organization is:
 - Created and maintained by [NCOR](https://ncor-network.org/docs/about/mission) and its collaborators,
